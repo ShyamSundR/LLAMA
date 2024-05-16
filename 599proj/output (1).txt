@@ -1,0 +1,73 @@
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 65,536 || all params: 498,151,424 || trainable%: 0.01
+trainable params: 262,144 || all params: 464,793,600 || trainable%: 0.06
+trainable params: 262,144 || all params: 464,793,600 || trainable%: 0.06
+trainable params: 262,144 || all params: 464,793,600 || trainable%: 0.06
+trainable params: 262,144 || all params: 464,793,600 || trainable%: 0.06
+trainable params: 262,144 || all params: 464,793,600 || trainable%: 0.06
+trainable params: 262,144 || all params: 464,793,600 || trainable%: 0.06
+trainable params: 262,144 || all params: 464,793,600 || trainable%: 0.06
+trainable params: 262,144 || all params: 464,793,600 || trainable%: 0.06
+trainable params: 262,144 || all params: 464,793,600 || trainable%: 0.06
+trainable params: 262,144 || all params: 464,793,600 || trainable%: 0.06
+trainable params: 262,144 || all params: 464,793,600 || trainable%: 0.06
+trainable params: 262,144 || all params: 464,793,600 || trainable%: 0.06
+trainable params: 262,144 || all params: 464,793,600 || trainable%: 0.06
+trainable params: 262,144 || all params: 464,793,600 || trainable%: 0.06
+trainable params: 262,144 || all params: 464,793,600 || trainable%: 0.06
+trainable params: 262,144 || all params: 464,793,600 || trainable%: 0.06
+trainable params: 262,144 || all params: 464,793,600 || trainable%: 0.06
+trainable params: 262,144 || all params: 464,793,600 || trainable%: 0.06
+trainable params: 12,582,912 || all params: 6,751,391,744 || trainable%: 0.19
+trainable params: 12,582,912 || all params: 6,751,391,744 || trainable%: 0.19
+trainable params: 12,582,912 || all params: 6,751,391,744 || trainable%: 0.19
+Average loss: 0.1601637
+Peak GPU memory : 30199.60 MB
+Total change in Mem: 110646979.71 MB
+Comp: 279.09 secs
+trainable params: 12,582,912 || all params: 6,751,391,744 || trainable%: 0.19
+Average loss: 0.9242087
+Peak GPU memory : 30151.60 MB
+Total change in Mem: 111450042.00 MB
+Comp: 283.11 secs
+trainable params: 12,582,912 || all params: 6,751,391,744 || trainable%: 0.19
